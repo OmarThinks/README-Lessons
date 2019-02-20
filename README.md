@@ -1,9 +1,9 @@
 # This is h1 #
-#This is h1#
+#This is not h1#
 
 ## This is h2 ##
-##This is h2##
-  
+##This is not h2##
+
 This text is **bold**  
 This text is __bold__ too  
   
