@@ -1,3 +1,7 @@
+Headings:
+===
+
+
 # This is h1 #
 
 	# This is h1 #  
@@ -33,6 +37,9 @@ This is h2, three or more dashes under the line
 *** 
 *** 
 *** 
+Bold:
+===
+
 This text is **bold**
 
 	This text is **bold**  
@@ -51,6 +58,10 @@ This text is __ not bold __ too
 *** 
 *** 
 *** 
+
+Italic:
+===
+
 This text is *italic*
 
 	This text is *italic*  
@@ -73,12 +84,20 @@ This text is _ not italic _ too
 ---
 _ _ _
 ___
+Links:
+===
+
+Simple Links:
+---
 You can simply write a link like this:  
 www.google.com
 
     www.google.com
 
 ***
+Complete link:
+---
+
 This is a link [Google](http://www.google.com/ "Google will open")
 
     This is a link [Google](http://www.google.com/ "Google will open")
@@ -89,6 +108,9 @@ http://www.google.com : is the place where you link will lead to
 ***
 ***
 ***
+Images:
+===
+
 	![alt text](location "Title")
 
 ![alt text](1.png "This image is 1.png")
@@ -106,11 +128,16 @@ the image with his mouse.
 ***
 ***
 ***
+Codes:
+===
+
 This is `code`  
 
     This is `code`
 
 ***
+Preformatting:
+===
 
     This is preformatted
 
@@ -138,6 +165,8 @@ one **tab**.
 ***
 ***
 ***
+Manual line breaks:
+===
 You can  
 break  
 lines  
