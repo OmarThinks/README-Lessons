@@ -153,6 +153,9 @@ by typing two spaces or more at the end of the line.
 ***
 ***
 ***
+Lists:
+===
+
 Ordered Lists:
 ---
 1. item 1
@@ -167,6 +170,22 @@ This is how you you can write it, with at least one space
 	2. item 2
 	3. item 3
 	4. item 4
+
+***
+
+Unordered Lists:
+---
+* item 1
+* item 2
+* item 3
+
+This is how you can write an ordered list, just don't forget to 
+leave one space between the star and the context of the list.
+
+	* item 1
+	* item 2
+	* item 3
+
 
 
 1.  Foo
