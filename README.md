@@ -154,7 +154,7 @@ by typing two spaces or more at the end of the line.
 ***
 ***
 Ordered Lists:
-===
+---
 1. item 1
 2. item 2
 3. item 3
