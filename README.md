@@ -153,6 +153,19 @@ by typing two spaces or more at the end of the line.
 ***
 ***
 ***
+Ordered Lists
+1. item 1
+2. item 2
+3. item 3
+4. item 4
+
+This is how you you can write it, with at least one space
+
+	1. item 1
+	2. item 2
+	3. item 3
+	4. item 4
+
 
 1.  Foo
 2.  Bar
