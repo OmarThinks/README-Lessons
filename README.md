@@ -156,12 +156,15 @@ by typing two spaces or more at the end of the line.
 
 1.  Foo
 2.  Bar
-
+1. 1
+1.1
 
 
 
 
 *   A list item.
+*  A list item.
+* A list item.
 
 	With multiple paragraphs.
 
