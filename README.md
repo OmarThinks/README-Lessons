@@ -89,7 +89,11 @@ http://www.google.com : is the place where you link will lead to
 ***
 ***
 ***
-!(1.png "Title")
+	![alt text](location "Title")
+
+![alt text](1.png "This image is 1.png")
+
+	![alt text](1.png "This image is 1.png")
 
 ***
 ***
