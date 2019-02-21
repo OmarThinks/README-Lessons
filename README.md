@@ -186,6 +186,37 @@ leave one space between the star and the context of the list.
 	* item 2
 	* item 3
 
+***
+
+Sub lists:
+---
+
+
+* item A
+	* item A1
+	* item A2
+	* item A3
+		* item A3A
+		* item A3B
+		* item A3C
+	* item A4
+* item B 
+
+You write a sub list by adding a **tab**.  
+And don't forget the space between the start and the content.
+
+
+
+	* item A
+		* item A1
+		* item A2
+		* item A3
+			* item A3A
+			* item A3B
+			* item A3C
+		* item A4
+	* item B 
+
 
 
 1.  Foo
