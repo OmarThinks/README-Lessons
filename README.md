@@ -154,3 +154,27 @@ by typing two spaces or more at the end of the line.
 ***
 ***
 
+1.  Foo
+2.  Bar
+
+
+
+
+
+*   A list item.
+
+	With multiple paragraphs.
+
+*   Bar
+
+
+
+
+*   Abacus
+	* answer
+*   Bubbles
+	1.  bunk
+	2.  bupkis
+		* BELITTLER
+	3. burper
+*   Cunning
