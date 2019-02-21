@@ -235,10 +235,10 @@ Paragraphs of sublist:
 
 * Google  
 	Google is a search engine  
-	go to google.com
+	go to https://www.google.com
 * Wikipedia  
 	A free website that contains lots of information  
-	go to wikipedia.org
+	go to https://www.wikipedia.org
 
 
 
@@ -250,10 +250,10 @@ In the list you can paragraph by addng the tab or 4 spaces.
 
 	* Google  
 		Google is a search engine  
-		go to google.com
+		go to https://www.google.com
 	* Wikipedia  
 		A free website that contains lots of information  
-		go to wikipedia.org
+		go to https://www.wikipedia.org
 
 
 
