@@ -13,6 +13,23 @@
 ##This is not h2##
 
 	##This is not h2##
+
+***
+
+This is h1, three or more equal sign under the line
+===
+
+	This is h1, three or more equal sign under the line
+	===
+
+***
+
+This is h2, three or more dashes under the line
+---
+
+	This is h2, three or more dashes under the line
+	---
+
 *** 
 *** 
 *** 
