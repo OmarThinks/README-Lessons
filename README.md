@@ -161,6 +161,7 @@ Ordered Lists:
 4. item 4
 
 This is how you you can write it, with at least one space
+ between the dot and the context of the list.
 
 	1. item 1
 	2. item 2
