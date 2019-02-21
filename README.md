@@ -93,3 +93,10 @@ http://www.google.com : is the place where you link will lead to
 This is `code`  
 
     This is `code`
+
+***
+
+    This is preformatted, by starting with tab or 4 spaces
+  
+
+    	This is preformatted, by starting with tab or 4 spaces
