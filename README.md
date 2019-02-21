@@ -203,7 +203,8 @@ Sub lists:
 * item B 
 
 You write a sub list by adding a **tab** or **4 spaces**.  
-And don't forget the space between the start and the content.
+And don't forget the space between the start and the content.  
+Sublists have limitaons.
 
 
 
