@@ -154,12 +154,3 @@ by typing two spaces or more at the end of the line.
 ***
 ***
 
-> Email-style angle brackets
-> are used for blockquotes.
-
-> > And, they can be nested.
-
-> #### Headers in blockquotes
-> 
-> * You can quote a list.
-> * Etc.
