@@ -135,3 +135,18 @@ one **tab**.
         Line 3: preformatted
         Line 4: preformatted
 
+***
+***
+***
+You can  
+break  
+lines  
+manually  
+by typing two spaces or more at the end of the line.
+
+	You can  
+	break  
+	lines  
+	manually  
+	by typing two spaces or more at the end of the line.
+
