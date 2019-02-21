@@ -56,5 +56,11 @@ This text is _ not italic _ too
 ---
 _ _ _
 ___
-
 An [example](http://url.com/ "Title")
+
+    An [example](http://url.com/ "Title")
+Example: is the text that will become a link  
+http://url.com : is the place where you link will lead to  
+Title: is the text that will appear when you hover with the mouse on the link.
+
+
