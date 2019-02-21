@@ -202,7 +202,7 @@ Sub lists:
 	* item A4
 * item B 
 
-You write a sub list by adding a **tab**.  
+You write a sub list by adding a **tab** or **4 spaces**.  
 And don't forget the space between the start and the content.
 
 
@@ -214,6 +214,15 @@ And don't forget the space between the start and the content.
 			* item A3A
 			* item A3B
 			* item A3C
+				* item A3C1
+					* item A3C1A
+						* item A3C1A1
+							* item A3C1A1A
+								* item A3C1A1A1
+									* item A3C1A1A1A
+										* item A3C1A1A1A1
+											* item A3C1A1A1A1A
+												* item A3C1A1A1A1A1
 		* item A4
 	* item B 
 
