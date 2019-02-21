@@ -56,11 +56,20 @@ This text is _ not italic _ too
 ---
 _ _ _
 ___
+You can simply write a link like this:  
+www.google.com
+
+    www.google.com
+
+***
 This is a link [Google](http://www.google.com/ "Google will open")
 
     This is a link [Google](http://www.google.com/ "Google will open")
 Google: is the text that will become a link  
 http://www.google.com : is the place where you link will lead to  
 "Google will open": is the text that will appear when you hover with the mouse on the link.
+
+***
+
 
 
