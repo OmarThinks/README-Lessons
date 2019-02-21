@@ -50,3 +50,10 @@ This text is _ not italic _ too
 
     This text is _ not italic _ too
 
+
+*********
+***
+---
+_ _ _
+___
+
