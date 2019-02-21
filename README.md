@@ -257,4 +257,26 @@ In the list you can paragraph by addng the tab or 4 spaces.
 
 
 
+***
+***
+***
+Horizontal Rulers:
+===
 
+
+These are three horizontal rulers:
+
+***
+---
+___
+
+You can write them using one of the following ways:
+
+* three or more **stars** `***`
+* three or more **dashes** `---`
+* three or more **underscores** `___`
+
+
+	***
+	---
+	___
