@@ -95,6 +95,14 @@ http://www.google.com : is the place where you link will lead to
 
 	![alt text](1.png "This image is 1.png")
 
+**alt text** : text to be displayed if the image didn't load,
+you can leave it empty.  
+**location** : This is the loation of the image.  
+**Title** : Text to be displayed when the user hovers over
+the image with his mouse.
+
+
+
 ***
 ***
 ***
