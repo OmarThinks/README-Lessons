@@ -277,6 +277,8 @@ You can write them using one of the following ways:
 * three or more **underscores** `___`
 
 
-	***
-	---
-	___
+`***`
+`---`
+`___`
+
+
