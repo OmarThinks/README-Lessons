@@ -102,3 +102,20 @@ You can make any text preformatted by starting with **4 spaces** or
 starting the line with **tab**.  
 
     	This is preformatted
+
+***
+
+	Line 1: preformatted
+	Line 2: preformatted
+	Line 3: preformatted
+	Line 4: preformatted
+
+You can make a group of preformatted lines by writing them after 
+each other, and starting each line with **4 spaces** or 
+one **tab**.  
+
+		Line 1: preformatted
+		Line 2: preformatted
+		Line 3: preformatted
+		Line 4: preformatted
+
