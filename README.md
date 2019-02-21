@@ -228,43 +228,33 @@ Sublists have limitaons.
 	* item B 
 
 
+***
 
-1.  Foo
-2.  Bar
-1. 1
-1.1
+Paragraphs of sublist:
+---
 
-
-
-
-*   A list item.
-*  A list item.
-* A list item.
-
-	With multiple paragraphs.
-
-*   Bar
+* Google
+	Google is a search engine  
+	go to google.com
+* Wikipedia
+	A free website that contains lots of information  
+	go to wikipedia.org
 
 
 
 
-*   Abacus
-	* answer
-*   Bubbles
-	1.  bunk
-	2.  bupkis
-		* BELITTLER
-	3. burper
-*   Cunning
+
+In the list you can paragraph by addng the tab or 4 spaces.
+
+
+
+	* Google
+		Google is a search engine  
+		go to google.com
+	* Wikipedia
+		A free website that contains lots of information  
+		go to wikipedia.org
 
 
 
 
-*   Abacus
-	* answer
-*   Bubbles
-	*  bunk
-	*  bupkis
-		* BELITTLER
-	* burper
-*   Cunning
