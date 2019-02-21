@@ -96,7 +96,9 @@ This is `code`
 
 ***
 
-    This is preformatted, by starting with tab or 4 spaces
-  
+    This is preformatted
 
-    	This is preformatted, by starting with tab or 4 spaces
+You can make any text preformatted by starting with **4 spaces** or
+starting the line with **tab**.  
+
+    	This is preformatted
