@@ -89,7 +89,11 @@ http://www.google.com : is the place where you link will lead to
 ***
 ***
 ***
+![alt text](1.png "Title")
 
+***
+***
+***
 This is `code`  
 
     This is `code`
